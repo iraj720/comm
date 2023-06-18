@@ -1,5 +1,5 @@
 
-details are explained in Comm.pages
+details are explained in comm2-2.docx
 
 diagrams url:
 which is also visible with comm-19.drawio file in draw.io website
